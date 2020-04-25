@@ -1,0 +1,9 @@
+requests >= 2.22.0
+os
+json
+difflib 
+bs4
+pandas
+plotly.graph_objs
+plotly.offline 
+decimal
